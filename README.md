@@ -20,12 +20,12 @@ Go through this steps to run the application
 
     python src/app.py
     
-### Step #3: Draw shape
+### Step #3: Draw your shape
 
 In this step you can draw the shape used as a basis.
 To do that do a left mouse click to start drawing, move the mouse to create the shape and do a left mouse click to finish.
 
-### Steo #4:
+### Steo #4: Spin them vectors!!
 
 See the rotating vectors draw your shape!
 
