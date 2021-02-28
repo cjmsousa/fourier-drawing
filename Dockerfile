@@ -7,6 +7,9 @@ FROM python:3.8 AS release
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
+#Install Tkinter
+RUN apt install python3-tk
+
 #Copy source code
 COPY src/ /app/
 
