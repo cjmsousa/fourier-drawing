@@ -4,7 +4,7 @@ This application is based in a YouTube video by [3Blue1Brown](https://www.youtub
 
 # What's this application?
 
-This application is a simple Python, written in version [3.8.5](https://www.python.org/downloads/release/python-385/)) application using [Tkinter](https://docs.python.org/3/library/tkinter.html) as the GUI Toolkit.
+This application is a simple Python, written in version [3.8.5](https://www.python.org/downloads/release/python-385/) application using [Tkinter](https://docs.python.org/3/library/tkinter.html) as the GUI Toolkit.
 
 This is supposed to be a funcional proof of concept. Feel free to use it as it.
 
