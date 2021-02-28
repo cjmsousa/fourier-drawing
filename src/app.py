@@ -6,7 +6,7 @@ from animation import Animation
 from user_shape import UserShape
 from vector import Vector
 
-NUMBER_OF_VECTORS = 10
+NUMBER_OF_VECTORS = 50
 CANVAS_WIDTH = 1920
 CANVAS_HEIGHT = 1080
 
